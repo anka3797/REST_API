@@ -1,0 +1,12 @@
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\b\rest_api.exe.config
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\b\rest_api.exe
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\i\rest_api\Debug\rest_api.Form1.resources
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\i\rest_api\Debug\rest_api.Properties.Resources.resources
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\i\rest_api\Debug\rest_api.csproj.GenerateResource.cache
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\i\rest_api\Debug\rest_api.csproj.CoreCompileInputs.cache
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\i\rest_api\Debug\rest_api.csproj.CopyComplete
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\i\rest_api\Debug\rest_api.exe
+C:\Users\antanas\Documents\rest_API\rest_api\.vs\rest_api\lut\0\i\rest_api\Debug\rest_api.csprojAssemblyReference.cache
